@@ -1,1 +1,1 @@
-# GraphRAG-Local-
+# GraphRAG-Local
