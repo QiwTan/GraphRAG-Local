@@ -3,6 +3,8 @@
 
 This project allows you to use a Large Language Model (LLM) to extract a knowledge graph from PDF documents and perform Q&A on the generated knowledge graph.
 
+![Top 10 nodes connected to PaLM](Top_10_nodes_to_PaLM.png)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
